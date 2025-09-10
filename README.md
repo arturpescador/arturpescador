@@ -12,7 +12,7 @@
 ## Hi there 👋
 
 ### About :smiley:
-Undergraduate student in Electrical Engineering at Federal University of Rio Grande do Sul with interest in Artificial Intelligence and Machine learning.
+Electrical Engineer with a Master’s degree in Artificial Intelligence, Systems and Data (PSL & IP Paris). Interested in Machine Learning, AI, and Optimization.
 
 ### Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-arturpescador-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturpescador/)](https://www.linkedin.com/in/arturpescador/)
